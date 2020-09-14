@@ -1,0 +1,9 @@
+gevent==1.4.0
+greenlet==0.4.16
+gunicorn==19.9.0
+gunicorn-thrift==0.2.25
+ply==3.11
+setproctitle==1.1.10
+six==1.15.0
+thrift==0.13.0
+thriftpy2==0.4.11
